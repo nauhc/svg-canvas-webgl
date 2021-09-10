@@ -1,4 +1,4 @@
-This app is created to compare the rendering performance of SVG vs. CANVAS vs. WEBGL(deck.gl).
+This app is created to compare the rendering performance between svg vs. Canvas vs. WebGL(deck.gl).
 
 ## Available Scripts
 
